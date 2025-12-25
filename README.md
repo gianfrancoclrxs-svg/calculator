@@ -45,4 +45,39 @@ It features a dark theme, circular buttons, smooth click animations, and smart c
 ---
 
 ## 📂 Project Structure
+/calculator
+│── index.html
+│── Calculator.css
+│── Calculator.js
 
+
+---
+
+## ▶️ How to Run
+
+1. Download or clone the project
+2. Open `index.html` in any modern browser
+3. Start calculating 🎉
+
+---
+
+## 🎨 Design Inspiration
+
+Inspired by the **iOS Calculator**, focusing on:
+- Minimalist design
+- Clear visual feedback
+- Smooth interactions
+
+---
+
+## 👤 Author
+
+**Gian**  
+BSIT Student  
+Pangasinan State University – Lingayen
+
+---
+
+## 📄 License
+
+This project is for educational purposes.
